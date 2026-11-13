@@ -9,4 +9,4 @@ Application séparée du site officiel. Cloudflare Worker + base D1 (SQLite). Ph
 - `scripts/deploy.sh` : déploiement complet.
 
 Le mot de passe de Sam n'est jamais dans le dépôt : c'est le secret Cloudflare `ADMIN_PASSWORD`.
-En local, copier `.dev.vars.example` vers `.dev.vars` (ignoré par git).
+En local, copier `.dev.vars.example` vers `.dev.vars` (ignoré par git)..
